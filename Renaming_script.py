@@ -1,8 +1,6 @@
-#!/usr/bin/env python
+# Python3 code to rename multiple files in a directory or folder
 
-# Pythono3 code to rename multiple files in a directory or folder
-
-# importing os module
+#importing os module
 import os
 
 def addition(f_zeros):
